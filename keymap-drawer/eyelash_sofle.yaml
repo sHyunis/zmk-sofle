@@ -58,7 +58,7 @@ layers:
   - $$mdi:apple-keyboard-command$$
   - $$mdi:apple-keyboard-option$$
   - $$mdi:keyboard-space$$
-  - {t: layer1, h: toggle}
+  - layer1
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-up-bold$$
@@ -123,7 +123,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: LAYER1, h: toggle}
+  - {type: held}
   - $$mdi:mouse-left-click-outline$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
