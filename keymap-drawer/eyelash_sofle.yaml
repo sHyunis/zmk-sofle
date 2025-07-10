@@ -104,7 +104,7 @@ layers:
   - $$mdi:arrow-down-bold$$
   - '{'
   - '}'
-  - {t: ']', s: '}'}
+  - {t: '-', s: _}
   - {t: '$$mdi:transfer$$', type: trans}
   - RGB OFF
   - RGB ON
